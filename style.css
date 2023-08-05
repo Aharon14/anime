@@ -1,0 +1,43 @@
+
+
+body{
+    background-image: url(logo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#img1{
+    margin-top: 100px;
+    margin-left: 400px;
+}
+#img2{
+    margin-top: -320px;
+    margin-left: 800px;
+    
+}
+
+#img3{
+    margin-top: 80px;
+    margin-left: 400px;
+    
+}
+#img4{
+    margin-top: -320px;
+    margin-left: 800px;
+    
+}
+
+h2{
+    color: lightseagreen;
+    font-style: italic;
+    font-variant: inherit;
+}
+
+h3{
+    color: antiquewhite;
+}
+
+#aud{
+    margin-top: 60px;
+    margin-left: 580px;
+}
